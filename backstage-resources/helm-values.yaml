@@ -16,7 +16,7 @@ backstage:
       - name: BASE_URL
         value: "backstage.74.220.18.43.nip.io"
       - name: CATALOG_LOCATION
-        value: "https://github.com/Udi-Hofesh/backstage-demo/blob/main/catalog/catalog-all.yaml"
+        value: "https://github.com/Udi-Hofesh/backstage-demo-udi/blob/main/catalog/catalog-all.yaml"
       - name: POSTGRES_HOST
         value: "backstage-rw"
       - name: POSTGRES_PORT
