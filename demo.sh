@@ -18,12 +18,12 @@ git push
 
 kubectl --namespace cnpg-system get all
 
+
 cat argocd/backstage-postgresql.yaml
 
 cp argocd/backstage-postgresql.yaml infra/.
 
 git add .
-
 git commit -m "Backstage PostgreSQL"
 
 git push
